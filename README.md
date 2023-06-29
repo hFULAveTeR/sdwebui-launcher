@@ -1,0 +1,1 @@
+I have made a modest launcher for Stable Diffusion that allows modifying the commands with which the application is initialized and launched. The launcher is written in Python, and the graphical interface was made with Tkinter. It should be placed in the same directory as your Stable Diffusion installation.
